@@ -11,3 +11,4 @@ const Welcome =(props)=>{
     </div>
   )
 }
+ export default Welcome;
